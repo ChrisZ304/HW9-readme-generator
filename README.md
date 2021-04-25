@@ -41,3 +41,5 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 Video Demo: https://drive.google.com/file/d/1PnxOU6EA2Ue3ghvUo_K26mhivwhI6ZZc/view
+![README Generator Proj](https://user-images.githubusercontent.com/78880287/116013182-c75c7900-a5fc-11eb-8968-bc285ea70962.png)
+
